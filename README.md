@@ -27,6 +27,8 @@ Eu sou o Alisson, Tenho 43 anos, estou estudando Programação, Por equanto fiz 
 
 <img width=42px src="https://github.com/user-attachments/assets/d4383f8a-e814-4ff3-96f9-625bfbc07642"/>
 
+<img width= 42px src="https://github.com/user-attachments/assets/944bd81e-a687-46a4-8f2f-708d82c95c5d"/>
+
 [![Alisson1981](https://github-readme-stats.vercel.app/api?username=alisson)](https://github.com/anuraghazra/github-readme-stats)
 
 
