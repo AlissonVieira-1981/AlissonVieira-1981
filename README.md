@@ -28,11 +28,11 @@ Eu sou o Alisson, Tenho 43 anos, estou estudando Programação, Por equanto fiz 
 </a>
 
 
-<a href="tel:55-12-982563607">
+<a href="tel:+5512982563607">
 <img width= 42px align="left" src="https://github.com/user-attachments/assets/944bd81e-a687-46a4-8f2f-708d82c95c5d" alt="logo-wats"/>
 </a>
 
-<a href="mailto:vierine1981@gmail.com">
+<a href="mailto:vierine1981@gmail.com" target="_blank">
 <img width= 52px align="left" src="https://github.com/user-attachments/assets/f71b7298-77da-4aa9-89bc-356a0c6091ed" alt="logo-g-mail"/>
 </a>
 <br>
