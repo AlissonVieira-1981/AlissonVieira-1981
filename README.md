@@ -15,19 +15,27 @@ Eu sou o Alisson, Tenho 43 anos, estou estudando Programação, Por equanto fiz 
 <br>
 
 <br>
-
+<div>
 <a href="https://www.instagram.com/alissondreza1981/"/>
 <img Width="42px" src="https://github.com/user-attachments/assets/d99d13f3-5d96-4247-9936-8ca5b8b7520c" alt="logo-insta"/>
 </a>
 
 <a href="https://www.linkedin.com/in/alisson-vieira-5095042b1/"/>
-<img width="42px" src="https://github.com/user-attachments/assets/6313074f-74ef-48b4-9128-cc2a368e7c28" />
+<img width="42px" src="https://github.com/user-attachments/assets/6313074f-74ef-48b4-9128-cc2a368e7c28" alt="logo-linkedin" />
 </a>
 
 
-<img width=42px src="https://github.com/user-attachments/assets/d4383f8a-e814-4ff3-96f9-625bfbc07642"/>
+<img width=42px src="https://github.com/user-attachments/assets/d4383f8a-e814-4ff3-96f9-625bfbc07642" alt="logo-facebook"/>
 
-<img width= 42px src="https://github.com/user-attachments/assets/944bd81e-a687-46a4-8f2f-708d82c95c5d"/>
+
+<a href="tel:55-12-982563607"/>
+<img width= 42px src="https://github.com/user-attachments/assets/944bd81e-a687-46a4-8f2f-708d82c95c5d" alt="logo-wats"/>
+</a>
+
+<a href="mailto:vierine1981@gmail.com">
+<img width= 42px src="https://github.com/user-attachments/assets/f71b7298-77da-4aa9-89bc-356a0c6091ed" alt="logo-g-mail"/>
+</a>
+
 
 [![Alisson1981](https://github-readme-stats.vercel.app/api?username=alisson)](https://github.com/anuraghazra/github-readme-stats)
 
