@@ -32,14 +32,20 @@ Eu sou o Alisson, Tenho 43 anos, estou estudando Programação, Por equanto fiz 
 <img width= 42px align="left" src="https://github.com/user-attachments/assets/944bd81e-a687-46a4-8f2f-708d82c95c5d" alt="logo-wats"/>
 </a>
 
-<a href="mailto:vierine1981@gmail.com" target="_blank">
+<a href="mailto:vierine1981@gmail.com">
 <img width= 52px align="left" src="https://github.com/user-attachments/assets/f71b7298-77da-4aa9-89bc-356a0c6091ed" alt="logo-g-mail"/>
 </a>
 <br>
 <br>
 <br>
-
-[![Alisson1981](https://github-readme-stats.vercel.app/api?username=alisson)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+<a href= "https://github.com/anuraghazra/github-readme-stats">
+<img width=220px align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical">
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img width=620px align= "center" src="https://github-readme-stats.vercel.app/api?username=alisson">
+</a>
+  
+      
+        
+        
+      
