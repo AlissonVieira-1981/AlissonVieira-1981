@@ -38,13 +38,16 @@ Eu sou o Alisson, Tenho 43 anos, estou estudando Programação, Por equanto fiz 
 <br>
 <br>
 <br>
-<a href= "https://github.com/anuraghazra/github-readme-stats">
-<img width=220px align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical">
-</a>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img width=620px align= "center" src="https://github-readme-stats.vercel.app/api?username=alisson">
+<img width= 500px align= "center" src="https://github-readme-stats.vercel.app/api?username=alisson">
 </a>
-  
+
+<a>
+<img width= 500px src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlissonVieira-1981&layout=compact">
+</a>
+
+         
       
         
         
